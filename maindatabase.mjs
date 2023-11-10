@@ -1,4 +1,3 @@
-import { techbooks } from "./it_books.mjs";
+import it_books from './it_books.mjs';
 
-
-console.log(book3.pages);
+console.log(it_books.book3.pages);
